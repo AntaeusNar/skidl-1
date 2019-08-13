@@ -32,6 +32,7 @@ requirements = [
     "kinparse >= 0.1.0",
     'enum34; python_version < "3.0"',
     #'PySpice; python_version >= "3.0"',
+    "pathlib2",
     "graphviz",
     "wxpython",
 ]
